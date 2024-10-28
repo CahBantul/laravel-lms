@@ -1,3 +1,6 @@
 <div>
-    {{-- Knowing others is intelligence; knowing yourself is true wisdom. --}}
+    <h2>{{ $title }}</h2>
 </div>
+
+
+
